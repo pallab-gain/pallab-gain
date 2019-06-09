@@ -58,5 +58,3 @@ topics:
   - name: Golang
     web_url: https://golang.org/
     image_url: https://golang.org/doc/gopher/doc.png
-
-theme: jekyll-theme-slate
